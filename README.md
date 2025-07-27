@@ -1,7 +1,7 @@
 # Brute Force Attack Prevention and Penetration Testing Report
 
 **Author:** Dirghayu Pradhanang  
-**Project Type:** Independent Cybersecurity Research  
+**Project Type:** Academic Cybersecurity Research  
 **Date:** Autumn 2024 – Spring 2025  
 
 ## 📘 Overview
