@@ -104,5 +104,5 @@ This project follows PTES (Penetration Testing Execution Standard), encompassing
 
 **Dirghayu Pradhanang**  
 Cybersecurity Enthusiast | Ethical Hacker | Linux Tinkerer  
-[LinkedIn Profile](https://linkedin.com) *(insert yours)*  
-[GitHub Portfolio](https://github.com) *(insert yours)*
+[LinkedIn Profile](https://www.linkedin.com/in/dirghayu-pradhanang/) 
+[GitHub Portfolio](https://github.com/Drgauz) 
